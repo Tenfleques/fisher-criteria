@@ -14,9 +14,9 @@ namespace ЦПУТС_1 {
         int error; // 0 everything okay,  1 division by 0, 2 square root of negative
 
         private double A, B;
-        public LinearRegression(int n) {
+        public LinearRegression(int n, double fp) {
             error = 0;
-            Fp = 2.2033;
+            Fp = fp;
             N = n;
             l = 2; //linear constant
             //get values from file or std input

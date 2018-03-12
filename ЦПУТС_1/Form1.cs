@@ -20,8 +20,8 @@ namespace ЦПУТС_1{
             double A, B;
             double[] x, y, ymodel;
             int l;
-
-            LinearRegression driver = new LinearRegression(N);
+            double tablichniFp = 2.2033; // при 5%
+            LinearRegression driver = new LinearRegression(N,tablichniFp);
             double y_ = driver.fillModelData();
             double[] SySo = driver.calculateDispersionRelativeToAvg(y_);
             double Fp = driver.getFp();
