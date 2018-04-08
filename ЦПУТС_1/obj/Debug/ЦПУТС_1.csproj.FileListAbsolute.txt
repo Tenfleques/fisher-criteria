@@ -1,0 +1,10 @@
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\bin\Debug\ЦПУТС_1.exe.config
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\bin\Debug\ЦПУТС_1.exe
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\bin\Debug\ЦПУТС_1.pdb
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.csprojResolveAssemblyReference.cache
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.FormMain.resources
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.Properties.Resources.resources
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.csproj.GenerateResource.Cache
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.csproj.CoreCompileInputs.cache
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.exe
+C:\Users\tenda\Documents\Visual Studio 2017\projects\fisher-criteria-start\ЦПУТС_1\obj\Debug\ЦПУТС_1.pdb
